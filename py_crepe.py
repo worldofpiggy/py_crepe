@@ -47,3 +47,5 @@ def model(filter_kernels, dense_outputs, maxlen, vocab_size, nb_filter,
                   metrics=['accuracy'])
 
     return model
+
+
